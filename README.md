@@ -1,5 +1,6 @@
 <h1>shoppingCard-Pro</h1>
 <h1>home page</h1>
+
 🚀 The project is a responsive site design coded for users to shop online. 
 
 🛒When the product is added to the cart, the cart will give you the price of the product. 
